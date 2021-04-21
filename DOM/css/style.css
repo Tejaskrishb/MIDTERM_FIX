@@ -1,0 +1,21 @@
+
+/* Make body Calibri*/
+body{
+  font-family: 'Calibri';
+}
+
+/* Left or Right Padding, border and collapse table border*/
+table, th, td {
+  border: 1px solid black;
+  text-align: center;
+}
+
+/* Table header lightgrey */
+th{
+  background-color: lightgrey;
+}
+
+/* Light Blue Class */
+.bgBlue{
+  background-color: lightblue;
+}
